@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="metacube-banner.png" alt="MetaCube Banner" width="100%">
+</p>
 # MetaCube – A Programmable Black Volumetric Display
 
 **Inventor:** Dhruv Pachnanda  
