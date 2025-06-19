@@ -22,7 +22,7 @@ MetaCube is a revolutionary black volumetric display that floats in mid-air usin
 - Uses light-absorbing metamaterials and field projection  
 - Interacts via gestures, neural control, or AI  
 - Intended for future "Spatial OS" environments  
-
+MetaCube is designed to adapt to various environments — from compact desk-sized setups to large-scale immersive installations. It replaces traditional displays by projecting a floating programmable black volume using structured light and metamaterials.
 ---
 
 ### 🧠 Inventor Declaration
